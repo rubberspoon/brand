@@ -1,6 +1,7 @@
 {
   "name": "@rubberspoon/brand",
   "description": "Current brand assets for Rubberspoon Ltd",
+  "private": true,
   "main": " ",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
