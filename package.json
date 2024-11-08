@@ -1,0 +1,21 @@
+{
+  "name": "@rubberspoon/brand",
+  "description": "Current brand assets for Rubberspoon Ltd",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubberspoon/brand.git"
+  },
+  "author": "Rubberspoon Ltd (hello@rubberspoon.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rubberspoon/brand/issues"
+  },
+  "homepage": "https://github.com/rubberspoon/brand#readme",
+  "devDependencies": {
+    "semantic-release": "^24.2.0"
+  }
+}
